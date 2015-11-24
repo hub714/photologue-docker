@@ -1,0 +1,7 @@
+#!/bin/bash
+
+PROJECT_FILES_ROOT='projectfiles'
+VENV='myvenv'
+ROOTDIR='djangoproject'
+PROJECT_NAME='djangophotos'
+GIT_NAME='djangophotos'
